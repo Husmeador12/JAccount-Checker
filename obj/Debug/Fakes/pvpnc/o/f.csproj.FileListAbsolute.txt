@@ -1,0 +1,14 @@
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\PVPNetConnect.Fakes.xml
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\PVPNetConnect.Fakes.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\PVPNetConnect.Fakes.pdb
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\MahApps.Metro.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\Newtonsoft.Json.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\PVPNetConnect.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\System.Windows.Interactivity.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\MahApps.Metro.xml
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\Newtonsoft.Json.xml
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\o\PVPNetConnect.Fakes.dll
+C:\Users\Propietario\Downloads\LoLAccountChecker-master\LoLAccountChecker-master\obj\Debug\Fakes\pvpnc\o\PVPNetConnect.Fakes.pdb
